@@ -1,0 +1,17 @@
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\bin\Debug\net6.0\BankApp.Business.deps.json
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\bin\Debug\net6.0\BankApp.Business.dll
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\bin\Debug\net6.0\BankApp.Business.pdb
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\bin\Debug\net6.0\BankApp.Data.dll
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\bin\Debug\net6.0\BankApp.Models.dll
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\bin\Debug\net6.0\BankApp.Models.pdb
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\bin\Debug\net6.0\BankApp.Data.pdb
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\obj\Debug\net6.0\BankApp.Business.csproj.AssemblyReference.cache
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\obj\Debug\net6.0\BankApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\obj\Debug\net6.0\BankApp.Business.AssemblyInfoInputs.cache
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\obj\Debug\net6.0\BankApp.Business.AssemblyInfo.cs
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\obj\Debug\net6.0\BankApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\obj\Debug\net6.0\BankApp.Business.csproj.CopyComplete
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\obj\Debug\net6.0\BankApp.Business.dll
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\obj\Debug\net6.0\refint\BankApp.Business.dll
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\obj\Debug\net6.0\BankApp.Business.pdb
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Business\obj\Debug\net6.0\ref\BankApp.Business.dll

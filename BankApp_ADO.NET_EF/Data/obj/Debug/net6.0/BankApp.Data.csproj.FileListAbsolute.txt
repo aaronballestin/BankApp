@@ -1,0 +1,17 @@
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\bin\Debug\net6.0\BankApp.Data.deps.json
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\bin\Debug\net6.0\BankApp.Data.runtimeconfig.json
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\bin\Debug\net6.0\BankApp.Data.dll
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\bin\Debug\net6.0\BankApp.Data.pdb
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\bin\Debug\net6.0\BankApp.Models.dll
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\bin\Debug\net6.0\BankApp.Models.pdb
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\BankApp.Data.csproj.AssemblyReference.cache
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\BankApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\BankApp.Data.AssemblyInfoInputs.cache
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\BankApp.Data.AssemblyInfo.cs
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\BankApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\BankApp.Data.csproj.CopyComplete
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\BankApp.Data.dll
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\refint\BankApp.Data.dll
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\BankApp.Data.pdb
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\BankApp.Data.genruntimeconfig.cache
+C:\Users\S2-PC00\Downloads\BankApp_ADO.NET_EF\BankApp_ADO.NET_EF\Data\obj\Debug\net6.0\ref\BankApp.Data.dll
